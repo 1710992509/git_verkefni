@@ -19,3 +19,8 @@ Git spurningar og svör
 	a) git diff Sýnir alla mismuni á tveimur greinum
 	b) git diff --staged Sýnir mismunin á síðasta commit og núverandi stöðu 
 	c) git diff commit1 commit2 sýnir mismunin á tveimur ákveðnum commit 
+
+4. 	Hvað er útgáfustýring (e.version control)?: Það geymir öll fyrrirverandi skjöl sem þú hefur búið til eða breytt þannig að hægt er að ná í þau seinna
+
+
+	
