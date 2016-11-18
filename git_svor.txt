@@ -24,4 +24,4 @@ Git spurningar og svör
 
 5.	Hverjir eru helstu kostir við að nota GIT?: Það að hægt er að komast í gömul og óbreytt skjöl sem annars væri ekki hægt að ná í
 	
-	
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?: Á 30-60min fresti til að halda flest öllum breytingum en ekki að hafa þetta oftar þannig að þetta verði bara fyrir og taki of mikið pláss.
