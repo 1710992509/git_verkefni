@@ -29,3 +29,5 @@ Git spurningar og svör
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?: Working directory er skjalið eða staðsetning í tölvuni sem forritið er að vinna í, Staging area er staðurinn sem þú getur breytt skjali eins og þú vilt áður en að þú setur það inn eða skrifar "commit" skipunina, Repository er Git staðsetning sem öll Git skjölin sem þú vilt vinna í, breyta, geyma og fleira er í tölvuni eða netinu.
 
 8.	Hvenær er sniðugt að nota greinar (branches)?: Þegar ætlað er að breyta einhverju sem getur skipt miklu máli en vilt ekki að það breyti eða eyðileggji aðal skjalinu áður en þú veist að það virki
+
+Kristján Elí Hlynsson
