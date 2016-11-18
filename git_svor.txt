@@ -6,3 +6,16 @@ Git spurningar og svör
 	ls Skrifar öll skjöl sem eru í working directory
 	pwd Skrifar working directory
 	mkdir Býr til directory eða folder
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone Afritar skjal
+	git log Skrifar það sem búið er að gera í git repository
+	git status Skrifar hvernig staðan er á repository
+	git diff Skrifar hvað mismunurinn er á tveimur greinum í git
+	git checkout Skiptir á milli git greinum
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff Sýnir alla mismuni á tveimur greinum
+	b) git diff --staged Sýnir mismunin á síðasta commit og núverandi stöðu 
+	c) git diff commit1 commit2 sýnir mismunin á tveimur ákveðnum commit 
