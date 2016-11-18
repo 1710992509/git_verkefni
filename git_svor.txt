@@ -22,5 +22,6 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)?: Það geymir öll fyrrirverandi skjöl sem þú hefur búið til eða breytt þannig að hægt er að ná í þau seinna
 
-
+5.	Hverjir eru helstu kostir við að nota GIT?: Það að hægt er að komast í gömul og óbreytt skjöl sem annars væri ekki hægt að ná í
+	
 	
